@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'CB Studios',
-    subtitle: 'Ceramics for your Garden & Home',
+    subtitle: 'Art for your Garden & Home',
     description: 'CB Studios is a collective of ceramics makers, plant enthusiasts, and design lovers based in San Francisco. We sell pottery and home furnishing!',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/about.jpg',
+        alt: 'CB Studios - Marketing Sample'
     },
     headerNavLinks: [
         {
@@ -76,8 +76,8 @@ const siteConfig: SiteConfig = {
         },
     ],
     hero: {
-        title: 'Pottery Your Plants will Love',
-        text: "At CB Studios, .",
+        title: 'Modern community-based ceramics',
+        text: "At CB Studios, we believe that the best art can only be made when we invest in our local artists. Made in San Francisco, our handcrafted ceramics and homewares are sure to liven up your home, whether you’re a world traveler or a lifelong native.",
         image: {
             src: '/hero.jpg',
             alt: 'Plant pots'

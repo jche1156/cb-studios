@@ -11,4 +11,6 @@ seo:
     alt: Wavy lines on a dark background
 ---
 
+![Succulents love container planting!](/post-4.jpg)
+
 Aren't cactuses great?

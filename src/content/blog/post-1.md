@@ -4,10 +4,7 @@ excerpt: Are you the lucky owner of a sunroom? Find out about the best planters 
 publishDate: 'Aug 5 2023'
 tags:
   - Guide
-seo:
-  image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
 ---
 
-lorem upsum
+![Ceramics](/post-1.jpg)
+

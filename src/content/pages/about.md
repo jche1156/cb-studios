@@ -14,12 +14,6 @@ seo:
 
 ## CB Studios - San Francisco Ceramics Collective
 
-Foo Bar
+CB Studios is a ceramics collective based out of San Francisco. We showcase the best artisans the city has to offer, and we hope to help craft something that helps you feel more at home in this foggy city. Our handcrafted ceramics and homewares are sure to liven up your home, whether you’re a world traveler or a homegrown native. We believe in happier living through community-minded art.
 
-## Background
-
-Baz Bing
-
-## Sustainability
-
-Bango Bongo
+Our pieces are designed and made locally, and we ensure that the creators of each piece are fairly compensated for their work. By decorating your home with conscientious craftsmanship, you can help ensure that the arts thrive in the Bay Area.

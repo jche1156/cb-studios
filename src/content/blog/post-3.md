@@ -13,4 +13,3 @@ seo:
 
 ![Beach ocean shore](/post-3.jpg)
 
-baz bar
